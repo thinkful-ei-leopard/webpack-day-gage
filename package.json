@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/thinkful-ei-leopard/webpack-day-gage/issues"
   },
-  "homepage": "https://github.com/thinkful-ei-leopard/webpack-day-gage#readme"
+  "homepage": "https://github.com/thinkful-ei-leopard/webpack-day-gage#readme",
+  "dependencies": {
+    "jquery": "^3.4.1"
+  }
 }
